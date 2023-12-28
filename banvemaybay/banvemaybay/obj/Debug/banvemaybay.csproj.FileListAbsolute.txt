@@ -1,0 +1,75 @@
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.exe.config
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.exe
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.pdb
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.AssemblyReference.cache
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.Properties.Resources.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.GenerateResource.cache
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.CoreCompileInputs.cache
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.exe
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.pdb
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdangnhap.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmkhachhanggiaodien.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmnhanviengiaodien.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdatve.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmttkhachhang.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmttnhanvien.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdangky.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmquenmatkhau.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmtimkiem.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmtrangdau.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.AccessControl.dll
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.Permissions.dll
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.Principal.Windows.dll
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.AccessControl.xml
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.Permissions.xml
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\bin\Debug\System.Security.Principal.Windows.xml
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.CopyComplete
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmchuyenbaydadangky.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmchuyenbaylike.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmhotrokhachhang.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmcachuyenbaysaptoi.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmhuyve.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdatvenhanvien.resources
+E:\CSharp\BaiTapBanveMayBay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdoimatkhau.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.exe.config
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.exe
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.pdb
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.AccessControl.dll
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.Permissions.dll
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.Principal.Windows.dll
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.AccessControl.xml
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.Permissions.xml
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\System.Security.Principal.Windows.xml
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.AssemblyReference.cache
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmchuyenbaylike.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdangnhap.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdatve.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdangky.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmcachuyenbaysaptoi.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdatvenhanvien.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmdoimatkhau.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmhotrokhachhang.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmhuyve.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmquenmatkhau.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmkhachhanggiaodien.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmnhanviengiaodien.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.Properties.Resources.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmchuyenbaydadangky.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmttkhachhang.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmttnhanvien.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmtimkiem.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.frmtrangdau.resources
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.GenerateResource.cache
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.CoreCompileInputs.cache
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.csproj.CopyComplete
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.exe
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.pdb
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.exe.manifest
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\bin\Debug\banvemaybay.application
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.TrustInfo.xml
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.exe.manifest
+E:\CSharp\Nhóm-4-21CN4-Phần Mềm Bán Vé Máy Bay\banvemaybay\banvemaybay\obj\Debug\banvemaybay.application
